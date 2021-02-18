@@ -25,7 +25,7 @@
   <entry>
     <title>Manacher算法详解</title>
     <url>/2021/02/12/Manacher-md/</url>
-    <content><![CDATA[<p>感谢此篇博文的讲解。<a href="https://wmathor.com/index.php/archives/954/">https://wmathor.com/index.php/archives/954/</a></p>
+    <content><![CDATA[<h1 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h1><p>感谢此篇博文的讲解。<a href="https://wmathor.com/index.php/archives/954/">https://wmathor.com/index.php/archives/954/</a></p>
 <a id="more"></a>
 
 <h1 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h1><p>给一个字符串 str，要求用 O (n) 的时间复杂度求出其中最长回文子串</p>
